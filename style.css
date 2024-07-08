@@ -1,0 +1,47 @@
+body { 
+  margin: 0px;
+  padding: 0px;
+  background: black;
+}
+
+#app {
+/*   width: 70%; */
+  margin: auto;
+}
+
+svg {
+  fill: none;  
+}
+
+.textHome {
+  font-family: 'Istok Web';
+  font-size: 18.5px;
+  text-align: center;
+}
+
+.textAbout {
+  font-family: 'Istok Web';
+  font-size: 18px;
+  text-align: left;
+  padding-top: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  line-height: 1.65;
+}
+
+.colored-Thanks {
+  color: #A90202;
+}
+
+.textSpecialCollab {
+  font-family: 'Istok Web';
+  font-size: 18px;
+  text-align: left;
+  padding-right: 5%;
+  line-height: 1.65;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
