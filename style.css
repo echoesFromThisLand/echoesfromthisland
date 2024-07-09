@@ -19,6 +19,12 @@ svg {
   text-align: center;
 }
 
+.textHomeCellphone {
+  font-family: 'Istok Web';
+  font-size: 17.49px;
+  text-align: center;
+}
+
 .textAbout {
   font-family: 'Istok Web';
   font-size: 18px;
@@ -26,6 +32,16 @@ svg {
   padding-top: 3%;
   padding-left: 5%;
   padding-right: 5%;
+  line-height: 1.65;
+}
+
+.textAboutCellphone {
+  font-family: 'Istok Web';
+  font-size: 17px;
+  text-align: left;
+  padding-top: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
   line-height: 1.65;
 }
 
