@@ -1,3 +1,5 @@
+document.documentElement.classList.add("js");
+
 document.addEventListener("DOMContentLoaded", () => {
   const menuButton = document.querySelector(".menu-toggle");
   const navigation = document.querySelector(".site-nav");
@@ -36,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  document.querySelectorAll(".gallery").forEach(createGallery);
+  document.querySelectorAll(".gallery-viewer").forEach(createGallery);
 });
 
 function createGallery(container) {
