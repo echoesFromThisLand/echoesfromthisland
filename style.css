@@ -33,7 +33,7 @@ body::before {
   inset: 0;
   background:
     linear-gradient(rgb(13 10 8 / 42%), rgb(13 10 8 / 56%)),
-    url("Images/background.jpg")
+    url("Images/bg-img.jpg")
       center / cover no-repeat;
   content: "";
 }
@@ -265,7 +265,7 @@ button {
 
 .home-introduction p {
   margin: 0;
-  font-size: clamp(0.82rem, 1.45vw, 1.03rem);
+  font-size: clamp(1.1rem, 1.8vw, 2rem);
   line-height: 1.45;
 }
 
