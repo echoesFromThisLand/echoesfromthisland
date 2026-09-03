@@ -33,7 +33,7 @@ body::before {
   inset: 0;
   background:
     linear-gradient(rgb(13 10 8 / 42%), rgb(13 10 8 / 56%)),
-    url("https://cdn.glitch.global/73c9db88-dc93-466c-9e84-a0279fa884bc/bg-img.jpg?v=1729021039642")
+    url("Images/background.jpg")
       center / cover no-repeat;
   content: "";
 }
