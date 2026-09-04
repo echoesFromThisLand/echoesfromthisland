@@ -4,7 +4,7 @@
 
 The project brings these reflections into the visual realm through traditional and new media approaches to printmaking and art production.
 
-Visit the website: [echoesfromthisland.ca](https://echoesfromthisland.ca)
+Visit the website: [echoesfromthisland.ca](https://echoesfromthisland.ca){:target="_blank"}
 
 ## About this repository
 
