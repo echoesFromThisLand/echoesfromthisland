@@ -685,7 +685,7 @@ noscript img {
 
 .link-list a {
   color: var(--red-dark);
-  font-weight: 700;
+  font-weight: 500;
   text-underline-offset: 0.22em;
   overflow-wrap: anywhere;
 }
