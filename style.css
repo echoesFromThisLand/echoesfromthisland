@@ -357,7 +357,8 @@ h3 {
 }
 
 .prose {
-  max-width: 76ch;
+  width: 100%;
+  max-width: none;
 }
 
 .prose p {
