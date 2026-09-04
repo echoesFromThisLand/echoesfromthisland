@@ -265,7 +265,7 @@ button {
 
 .home-introduction p {
   margin: 0;
-  font-size: clamp(1rem, 1.4vw, 1.6rem);
+  font-size: clamp(1.2rem, 1.4vw, 1.6rem);
   line-height: 1.4;
 }
 
