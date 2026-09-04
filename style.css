@@ -23,7 +23,7 @@ body {
   margin: 0;
   color: var(--ink);
   font-family: "Trebuchet MS", "Segoe UI", Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.65;
 }
 
@@ -364,27 +364,14 @@ h3 {
   margin: 0 0 1.1rem;
 }
 
-.intro-prose {
-  columns: 2 320px;
-  column-gap: clamp(2rem, 5vw, 4.5rem);
-}
-
-.intro-prose p {
-  break-inside: avoid;
-}
-
-.image-grid {
-  display: grid;
+.representative-image {
   margin: clamp(2rem, 5vw, 4.5rem) 0;
-  grid-template-columns: repeat(4, 1fr);
-  gap: clamp(0.4rem, 1vw, 0.8rem);
 }
 
-.image-grid img {
-  width: 100%;
-  aspect-ratio: 1;
-  background: var(--paper-soft);
-  object-fit: cover;
+.representative-image img {
+  width: min(900px, 100%);
+  height: auto;
+  margin-inline: auto;
 }
 
 .page-section {
